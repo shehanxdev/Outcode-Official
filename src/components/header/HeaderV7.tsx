@@ -1,7 +1,7 @@
 import MainMenu from "./MainMenu";
 import { Link } from "react-router-dom";
-import logo from '/assets/img/logo.png';
-import logoLight from '/assets/img/logo-light.png';
+import logo from '/assets/img/logo.svg';
+import logoLight from '/assets/img/logo-light.svg';
 import useSidebarMenu from "../../hooks/useSidebarMenu";
 import useSubMenuToggle from "../../hooks/useSubMenuToggle";
 import useStickyMenu from "../../hooks/useStickyMenu";
@@ -39,7 +39,7 @@ const HeaderV7 = () => {
                             <div className="attr-nav flex">
                                 <ul>
                                     <li className="button">
-                                        <Link to="/contact-us">Get in touch</Link>
+                                        <Link to="/contact">Get in touch</Link>
                                     </li>
                                 </ul>
                             </div>

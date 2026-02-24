@@ -10,7 +10,7 @@ const ContactUsPage = () => {
     return (
         <>
             <Helmet>
-                <title>Dixor - Contact Us</title>
+                <title>OutCode - Contact Us</title>
             </Helmet>
 
             <LayoutV1>

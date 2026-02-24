@@ -10,7 +10,7 @@ const FaqPage = () => {
     return (
         <>
             <Helmet>
-                <title>Dixor - Faq</title>
+                <title>OutCode - FAQ</title>
             </Helmet>
 
             <LayoutV1>

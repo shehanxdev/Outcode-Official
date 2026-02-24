@@ -19,7 +19,7 @@ const PortfolioV7 = () => {
                             <div className="row">
                                 <div className="col-lg-12">
                                     <div className="text-center">
-                                        <Link className="btn-round-animation dark mt-120" to="/project">Load More</Link>
+                                        <Link className="btn-round-animation dark mt-120" to="/portfolio">Load More</Link>
                                     </div>
                                 </div>
                             </div>

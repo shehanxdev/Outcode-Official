@@ -197,7 +197,7 @@ const ProjectDetailsContent = ({ projectInfo, sectionClass, totalProjects }: Pro
                         <div className="col-lg-12">
                             <div className="project-paginvation-items">
                                 <div className="project-previous">
-                                    <Link to={`/project-details/${previousId}`}>
+                                    <Link to={`/portfolio-details/${previousId}`}>
                                         <div className="icon"><i className="fas fa-angle-double-left" /></div>
                                         <div className="nav-title"> Previous Post
                                             <h5>{getFirstTwoWords(previousProject?.title)}</h5>
@@ -208,7 +208,7 @@ const ProjectDetailsContent = ({ projectInfo, sectionClass, totalProjects }: Pro
                                     <Link to="#"><i className="fas fa-th-large" /></Link>
                                 </div>
                                 <div className="project-next">
-                                    <Link to={`/project-details/${nextId}`}>
+                                    <Link to={`/portfolio-details/${nextId}`}>
                                         <div className="nav-title">Next Post
                                             <h5>{getFirstTwoWords(nextProject?.title)}</h5>
                                         </div>

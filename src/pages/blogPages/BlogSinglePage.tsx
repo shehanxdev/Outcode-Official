@@ -15,7 +15,7 @@ const BlogSinglePage = () => {
     return (
         <>
             <Helmet>
-                <title>Dixor - Blog Single</title>
+                <title>OutCode - Blog Post</title>
             </Helmet>
 
             <LayoutV1>

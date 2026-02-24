@@ -36,13 +36,13 @@ const FooterV3 = () => {
                                     <h4 className="widget-title">Useful Link</h4>
                                     <ul className="useful-link">
                                         <li><Link to="/about-us">About Us</Link></li>
-                                        <li><Link to="/contact-us">Contact</Link></li>
+                                        <li><Link to="/contact">Contact</Link></li>
                                         <li><Link to="/faq">FAQS</Link></li>
                                         <li><Link to="/services">Services</Link></li>
                                         <li><Link to="/about-2">Term & Conditions</Link></li>
                                         <li><Link to="/about-us">Privacy Policy</Link></li>
                                         <li><Link to="/about-2">Careers</Link></li>
-                                        <li><Link to="/contact-us">Help Desk</Link></li>
+                                        <li><Link to="/contact">Help Desk</Link></li>
                                     </ul>
                                     <NewsletterV2 />
                                 </div>
@@ -59,7 +59,7 @@ const FooterV3 = () => {
                                 </div>
                                 <div className="col-lg-6 text-end">
                                     <p>
-                                        Copyright &copy; {(new Date().getFullYear())} Dixor. All Rights Reserved
+                                        Copyright &copy; {(new Date().getFullYear())} OutCode. All Rights Reserved
                                     </p>
                                 </div>
                             </div>

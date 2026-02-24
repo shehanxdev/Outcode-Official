@@ -55,7 +55,7 @@ const TeamDetails = ({ teamInfo, sectionClass }: TeamDetailsProps) => {
                                         </li>
                                     </ul>
                                     <div className="social">
-                                        <Link className="btn circle btn-sm btn-gradient animation" to="/contact-us">Contact Me</Link>
+                                        <Link className="btn circle btn-sm btn-gradient animation" to="/contact">Contact Me</Link>
                                         <div className="share-link">
                                             <i className="fas fa-share-alt" />
                                             <ul>

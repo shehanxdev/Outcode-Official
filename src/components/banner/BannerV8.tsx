@@ -54,7 +54,7 @@ const BannerV8 = () => {
                     <div className="row">
                         <div className="col-xl-7">
                             <div className="d-grid">
-                                <h4>Dexus Agency</h4>
+                                <h4>OutCode</h4>
                                 <div className="right">
                                     <p>
                                         Providing innovative solutions in branding, marketing, design, and advertising. These agencies often collaborate with clients to develop unique campaigns, visual identities, and digital strategies that resonate with target audiences. Services may include graphic design, content creation, social media management.

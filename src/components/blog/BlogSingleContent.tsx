@@ -122,13 +122,13 @@ const BlogSingleContent = ({ blogInfo, totalBlogs, sectionClass }: BlogSinglePro
                                     {/* Post Pagination */}
                                     <div className="post-pagi-area">
                                         <div className="post-previous">
-                                            <Link to={`/blog-single/${previousId}`}>
+                                            <Link to={`/blog/${previousId}`}>
                                                 <div className="icon"><i className="fas fa-angle-double-left"></i></div>
                                                 <div className="nav-title"> Previous Post <h5>{getFirstTwoWords(previousBlog?.title)}</h5></div>
                                             </Link>
                                         </div>
                                         <div className="post-next">
-                                            <Link to={`/blog-single/${nextId}`}>
+                                            <Link to={`/blog/${nextId}`}>
                                                 <div className="nav-title">Next Post <h5>{getFirstTwoWords(nextBlog?.title)}</h5></div>
                                                 <div className="icon"><i className="fas fa-angle-double-right"></i></div>
                                             </Link>

@@ -1,6 +1,6 @@
 /* ----------------------------------
 
-Template Name: Dixor - Creative Digital Agency React Template 
+Template Name: OutCode - IT Solutions Company 
 Author: validthemes
 Description:
 Version: 1.5
@@ -90,7 +90,7 @@ Sidebar heading:  22px 'Barlow', sans-serif
 @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@100;200;300;400;500;600;700;800&display=swap');
 
 
-/* Varialbes */
+/* Variables */
 :root {
 	--font-default: 'Barlow', sans-serif;
 	--font-heading: 'Barlow', sans-serif;
@@ -100,17 +100,18 @@ Sidebar heading:  22px 'Barlow', sans-serif
 	--dark-secondary: #18191b;
 	--dark-optional: #2a2d32;
 	--white: #ffffff;
-	--color-primary: #C9F31D;
-	--color-secondary: #add40c;
+	--color-primary: #4A90D9;
+	--color-secondary: #152B6E;
+	--color-accent: #152B6E;
 	--color-heading: #04000b;
-	--color-paragraph: #666666;
+	--color-paragraph: #555555;
 	--box-shadow-primary: -1px 3px 10px 0 rgba(0, 0, 0, 0.6);
-	--box-shadow-secondary: 0 10px 30px 0 rgba(44, 130, 237, 0.4);
+	--box-shadow-secondary: 0 10px 30px 0 rgba(21, 43, 110, 0.3);
 	--box-shadow-regular: 0px 2px 12px 0px #e7e7e7;
-	--bg-gray: #f2f3ef;
-	--bg-gray-secondary: #eff2e4;
-	--bg-gradient: linear-gradient(45deg, var(--color-secondary) 0%, var(--color-primary) 50%);
-	--bg-gradient-secondary: linear-gradient(90deg, rgba(237, 245, 255, 1) 0%, rgba(204, 223, 247, 1) 100%);
+	--bg-gray: #F0F4F8;
+	--bg-gray-secondary: #E8EDF3;
+	--bg-gradient: linear-gradient(45deg, var(--color-secondary) 0%, var(--color-primary) 100%);
+	--bg-gradient-secondary: linear-gradient(90deg, rgba(232, 237, 243, 1) 0%, rgba(208, 222, 241, 1) 100%);
 }
 
 
@@ -5736,7 +5737,7 @@ ul.list-style-two li:last-child {
 }
 
 .bg-dark .full-screen-portfolio-slider .content h2 {
-	background: linear-gradient(0deg, #add40c 0%, var(--white) 30%);
+	background: linear-gradient(0deg, #4A90D9 0%, var(--white) 30%);
 	-webkit-background-clip: text;
 	background-clip: text;
 	-webkit-text-fill-color: transparent;
@@ -12176,7 +12177,7 @@ ul.contact-list li .info {
 	content: "";
 	height: 300px;
 	width: 300px;
-	background: #c9f31d;
+	background: #4A90D9;
 	z-index: -1;
 	border-radius: 50%;
 	filter: blur(150px);
@@ -19045,7 +19046,7 @@ ul.footer-social li a img {
 	z-index: 999;
 }
 
-.dixor-loader-wrap {
+.outcode-loader-wrap {
 	height: 100vh;
 	display: flex;
 	align-items: center;
@@ -19054,7 +19055,7 @@ ul.footer-social li a img {
 	width: 100%;
 }
 
-.dixor-loader-inner {
+.outcode-loader-inner {
 	position: fixed;
 	width: 100%;
 	display: inline-flex;
@@ -19063,69 +19064,69 @@ ul.footer-social li a img {
 	height: 100vh;
 }
 
-.dixor-loader {
+.outcode-loader {
 	margin-left: 92px;
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px),
 (max-width: 575px) {
-	.dixor-loader {
+	.outcode-loader {
 		transform: scale(0.8);
 		margin-left: 66px;
 	}
 }
 
-.dixor-loader-item {
+.outcode-loader-item {
 	position: absolute;
 	width: 6px;
 	height: 80px;
 	margin-top: -45px;
 	border-radius: 0px;
-	background-color: var(--color-primary);
-	animation: dixor-loader-aim 0.8s infinite;
+	background-color: var(--color-accent);
+	animation: outcode-loader-aim 0.8s infinite;
 	animation-direction: alternate-reverse;
 }
 
-.dixor-loader .dixor-loader-item:nth-child(1) {
+.outcode-loader .outcode-loader-item:nth-child(1) {
 	margin-left: 0px;
 }
 
-.dixor-loader .dixor-loader-item:nth-child(2) {
+.outcode-loader .outcode-loader-item:nth-child(2) {
 	margin-left: -14px;
 	animation-delay: 0.1s;
 }
 
-.dixor-loader .dixor-loader-item:nth-child(3) {
+.outcode-loader .outcode-loader-item:nth-child(3) {
 	margin-left: -28px;
 	animation-delay: 0.2s;
 }
 
-.dixor-loader .dixor-loader-item:nth-child(4) {
+.outcode-loader .outcode-loader-item:nth-child(4) {
 	margin-left: -42px;
 	animation-delay: 0.3s;
 }
 
-.dixor-loader .dixor-loader-item:nth-child(5) {
+.outcode-loader .outcode-loader-item:nth-child(5) {
 	margin-left: -56px;
 	animation-delay: 0.4s;
 }
 
-.dixor-loader .dixor-loader-item:nth-child(6) {
+.outcode-loader .outcode-loader-item:nth-child(6) {
 	margin-left: -70px;
 	animation-delay: 0.5s;
 }
 
-.dixor-loader .dixor-loader-item:nth-child(7) {
+.outcode-loader .outcode-loader-item:nth-child(7) {
 	margin-left: -84px;
 	animation-delay: 0.6s;
 }
 
-.dixor-loader .dixor-loader-item:nth-child(8) {
+.outcode-loader .outcode-loader-item:nth-child(8) {
 	margin-left: -98px;
 	animation-delay: 0.7s;
 }
 
-@keyframes dixor-loader-aim {
+@keyframes outcode-loader-aim {
 	0% {
 		height: 2px;
 		margin-top: 0;
@@ -19668,4 +19669,36 @@ nav.navbar.validnavs .navbar-collapse.collapse.show img.light-img {
 	.banner-style-ten-left-info img {
 		display: none !important;
 	}
+}
+
+/* ============================================================== 
+     # OutCode Brand Overrides - Navy Blue Theme Contrast Fixes
+=================================================================== */
+
+/* Ensure white text on primary-colored backgrounds */
+.btn-style-two i {
+	color: var(--white);
+}
+
+/* Button animation dark variant - white text on blue bg */
+.btn-animation.dark i {
+	color: var(--white);
+}
+
+/* For elements that used lime-green text, switch to accent blue */
+.bg-dark a:hover,
+.bg-dark .btn-animation:hover {
+	color: var(--color-primary);
+}
+
+/* Ensure gradient buttons have white text */
+[class*="btn-gradient"],
+.btn-md,
+.btn-sm {
+	color: var(--white);
+}
+
+/* Dark mode preloader uses accent blue */
+.bg-dark .outcode-loader-item {
+	background-color: var(--color-primary);
 }

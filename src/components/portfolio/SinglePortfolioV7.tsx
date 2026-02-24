@@ -17,7 +17,7 @@ const SinglePortfolioV7 = ({ portfolio }: { portfolio: DataType }) => {
         <>
             <div className="portfolio-style-six wow fadeInUp">
                 <div className="thumb">
-                    <Link to={`/project-details/${id}`}>
+                    <Link to={`/portfolio-details/${id}`}>
                         <img src={`/assets/img/portfolio/${thumb}`} alt="Image Not Found" />
                     </Link>
                     <div className="bottom">
@@ -31,7 +31,7 @@ const SinglePortfolioV7 = ({ portfolio }: { portfolio: DataType }) => {
                         <img src={arrowThree} alt="Image Not Found" />
                     </Link>
                     <div className="overlay">
-                        <h2><Link to={`/project-details/${id}`}>{title}</Link></h2>
+                        <h2><Link to={`/portfolio-details/${id}`}>{title}</Link></h2>
                     </div>
                 </div>
             </div>

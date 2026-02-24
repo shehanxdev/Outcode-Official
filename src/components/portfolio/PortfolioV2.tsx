@@ -57,7 +57,7 @@ const PortfolioV2 = ({ hasTitle, moreBtn, sectionClass }: DataType) => {
                         <div className="row">
                             <div className="col-lg-12">
                                 <div className="text-center">
-                                    <Link className="btn-round-animation dark mt-80" to="/contact-us">Load More</Link>
+                                    <Link className="btn-round-animation dark mt-80" to="/portfolio">Load More</Link>
                                 </div>
                             </div>
                         </div>

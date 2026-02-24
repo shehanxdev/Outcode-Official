@@ -15,7 +15,7 @@ const SingleBlog3Column = ({ blog }: { blog: DataType }) => {
         <>
             <div className="home-blog-style-one">
                 <div className="thumb">
-                    <Link to={`/blog-single-with-sidebar/${id}`}>
+                    <Link to={`/blog/${id}`}>
                         <img src={`/assets/img/blog/${thumb}`} width={800} height={600} alt="Thumb" />
                     </Link>
                     <div className="info">
@@ -28,9 +28,9 @@ const SingleBlog3Column = ({ blog }: { blog: DataType }) => {
                             </ul>
                         </div>
                         <h2 className="post-title">
-                            <Link to={`/blog-single-with-sidebar/${id}`}>{title2}</Link>
+                            <Link to={`/blog/${id}`}>{title2}</Link>
                         </h2>
-                        <Link to={`/blog-single-with-sidebar/${id}`} className="button-regular">
+                        <Link to={`/blog/${id}`} className="button-regular">
                             Continue Reading
                             <i className="fas fa-long-arrow-right" />
                         </Link>

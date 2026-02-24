@@ -42,7 +42,7 @@ const AboutV7 = ({ sectionClass }: DataType) => {
                                         <div className="left">
                                             <ul className="list-style-one">
                                                 <li>
-                                                    <strong>Work</strong> info@dexus.com
+                                                    <strong>Work</strong> info@outcode.com
                                                 </li>
                                                 <li>
                                                     <strong>Company</strong> (+012)47 333 78 901

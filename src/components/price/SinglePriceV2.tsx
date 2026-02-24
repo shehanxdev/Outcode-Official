@@ -35,7 +35,7 @@ const SinglePriceV2 = ({ plan }: { plan: DataType }) => {
                     </h2>
 
                 </div>
-                <Link className="btn mt-25 btn-sm circle btn-border dark effect" to="/contact-us">Get Started</Link>
+                <Link className="btn mt-25 btn-sm circle btn-border dark effect" to="/contact">Get Started</Link>
             </div>
         </>
     );

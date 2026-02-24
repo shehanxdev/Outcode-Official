@@ -17,10 +17,10 @@ const SinglePortfolioV4 = ({ portfolio }: { portfolio: DataType }) => {
                     <img src={`/assets/img/portfolio/${thumb}`} alt="Image Not Found" width={700} height={600} />
                     <div className="content">
                         <span>{tag}</span>
-                        <Link to={`/project-details/${id}`}>
+                        <Link to={`/portfolio-details/${id}`}>
                             <h2>{title}</h2>
                         </Link>
-                        <Link className="btn-animation" to={`/project-details/${id}`}>
+                        <Link className="btn-animation" to={`/portfolio-details/${id}`}>
                             <i className="fas fa-arrow-right" /> <span>View Project</span>
                         </Link>
                     </div>

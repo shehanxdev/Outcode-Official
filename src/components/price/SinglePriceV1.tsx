@@ -28,7 +28,7 @@ const SinglePriceV1 = ({ plan, activeServiceId }: PriceProps) => {
                         <span>{trial}</span>
                     </div>
                     <h2><sup>{currency}</sup>{price}</h2>
-                    <Link className={`btn btn-sm circle effect ${activeServiceId === plan.id ? 'btn-gradient' : 'btn-light'}`} to="/contact-us">Order Now</Link>
+                    <Link className={`btn btn-sm circle effect ${activeServiceId === plan.id ? 'btn-gradient' : 'btn-light'}`} to="/contact">Order Now</Link>
                 </div>
                 <div className="right">
                     <h5>{suitability}</h5>

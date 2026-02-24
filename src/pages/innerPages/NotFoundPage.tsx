@@ -8,7 +8,7 @@ const NotFoundPage = () => {
     return (
         <>
             <Helmet>
-                <title>Dixor - 404 Not Found</title>
+                <title>OutCode - 404 Not Found</title>
             </Helmet>
 
             <LayoutV1>

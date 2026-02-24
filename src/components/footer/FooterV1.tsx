@@ -1,8 +1,8 @@
 import { Link } from "react-router-dom";
 import NewsletterV2 from '../newsletter/NewsletterV2';
 import FooterSocial from '../social/FooterSocial';
-import logoLight from '/assets/img/logo-light.png'
-import logo from '/assets/img/logo.png'
+import logoLight from '/assets/img/logo-light.svg'
+import logo from '/assets/img/logo.svg'
 
 interface DataType {
     sectionClass?: string;
@@ -40,18 +40,18 @@ const FooterV1 = ({ sectionClass }: DataType) => {
                                 <h4 className="widget-title">Useful Link</h4>
                                 <ul className="useful-link">
                                     <li><Link to="/about-us">About Us</Link></li>
-                                    <li><Link to="/contact-us">Contact</Link></li>
+                                    <li><Link to="/contact">Contact</Link></li>
                                     <li><Link to="/faq">FAQS</Link></li>
                                     <li><Link to="/services">Services</Link></li>
                                     <li><Link to="/about-2">Term & Conditions</Link></li>
                                     <li><Link to="/about-us">Privacy Policy</Link></li>
                                     <li><Link to="/about-2">Careers</Link></li>
-                                    <li><Link to="/contact-us">Help Desk</Link></li>
+                                    <li><Link to="/contact">Help Desk</Link></li>
                                 </ul>
                                 <div className="footer-contact">
                                     <ul>
                                         <li>
-                                            <a href="mailto:someone@example.com">info@dixor.com</a>
+                                            <a href="mailto:info@outcode.com">info@outcode.com</a>
                                         </li>
                                         <li>
                                             <a href="tel:+4733378901">+47 333 78 901</a>
@@ -72,7 +72,7 @@ const FooterV1 = ({ sectionClass }: DataType) => {
                             </div>
                             <div className="col-lg-6 text-end">
                                 <p>
-                                    Copyright &copy; {(new Date().getFullYear())} Dixor. All Rights Reserved
+                                    Copyright &copy; {(new Date().getFullYear())} OutCode. All Rights Reserved
                                 </p>
                             </div>
                         </div>

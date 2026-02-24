@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
-import logoLight from "/assets/img/logo-light.png";
-import logo from "/assets/img/logo.png";
+import logoLight from "/assets/img/logo-light.svg";
+import logo from "/assets/img/logo.svg";
 import MainMenu from "./MainMenu";
 import useSubMenuToggle from "../../hooks/useSubMenuToggle";
 import useSidebarMenu from "../../hooks/useSidebarMenu";

@@ -1,8 +1,8 @@
 import { Link } from "react-router-dom";
 import MainMenu from './MainMenu';
 import SidebarInfo from './SidebarInfo';
-import logo from '/assets/img/logo.png';
-import logoLight from '/assets/img/logo-light.png';
+import logo from '/assets/img/logo.svg';
+import logoLight from '/assets/img/logo-light.svg';
 import useSidebarMenu from "../../hooks/useSidebarMenu";
 import useSubMenuToggle from "../../hooks/useSubMenuToggle";
 import useSidebarInfo from "../../hooks/useSidebarInfo";

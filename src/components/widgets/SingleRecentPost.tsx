@@ -26,7 +26,7 @@ const SingleRecentPost: React.FC<SingleRecentPostProps> = ({ blog }) => {
     return (
         <li>
             <div className="thumb">
-                <Link to={`/blog-single-with-sidebar/${id}`}>
+                <Link to={`/blog/${id}`}>
                     <img src={`/assets/img/blog/${thumb}`} width={500} height={500} alt="Thumb" />
                 </Link>
             </div>
@@ -34,7 +34,7 @@ const SingleRecentPost: React.FC<SingleRecentPostProps> = ({ blog }) => {
                 <div className="meta-title">
                     <span className="post-date">{date}</span>
                 </div>
-                <Link to={`/blog-single-with-sidebar/${id}`}>{truncatedTitle}</Link>
+                <Link to={`/blog/${id}`}>{truncatedTitle}</Link>
             </div>
         </li>
     );

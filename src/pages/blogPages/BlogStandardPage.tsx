@@ -9,7 +9,7 @@ const BlogStandardPage = () => {
     return (
         <>
             <Helmet>
-                <title>Dixor - Blog Standard</title>
+                <title>OutCode - Blog</title>
             </Helmet>
 
             <LayoutV1>

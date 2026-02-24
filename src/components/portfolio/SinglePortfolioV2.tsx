@@ -17,7 +17,7 @@ const SinglePortfolioV2 = ({ portfolio }: { portfolio: DataType }) => {
     return (
         <>
             <div className="portfolio-style-two">
-                <Link to={`/project-details/${id}`} className="cursor-target">
+                <Link to={`/portfolio-details/${id}`} className="cursor-target">
                     <div className="thumb-zoom">
                         <img className="img-reveal" src={`/assets/img/portfolio/${thumb}`} width={826} height={1067} alt="Image Not Found" ref={containerRef} />
                     </div>

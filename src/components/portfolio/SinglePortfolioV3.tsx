@@ -20,8 +20,8 @@ const SinglePortfolioV3 = ({ portfolio }: { portfolio: DataType }) => {
                     </div>
                     <div className="col-lg-5">
                         <div className="date">{date}</div>
-                        <h2><Link to={`/project-details/${id}`}>{titleFirst} <strong>{titleLast}</strong></Link></h2>
-                        <Link className="btn-animation mt-10" to={`/project-details/${id}`}>
+                        <h2><Link to={`/portfolio-details/${id}`}>{titleFirst} <strong>{titleLast}</strong></Link></h2>
+                        <Link className="btn-animation mt-10" to={`/portfolio-details/${id}`}>
                             <i className="fas fa-arrow-right" />
                             <span>See Details</span>
                         </Link>
