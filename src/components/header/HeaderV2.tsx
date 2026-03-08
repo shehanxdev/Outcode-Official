@@ -23,9 +23,9 @@ const HeaderV2 = () => {
                         <div className="col-xl-2 col-lg-3">
                             <div className="navbar-header">
                                 <Link className="navbar-brand" to="/">
-                                        <img src={logoLight} className="logo" alt="Logo" />
-                                        <img src={logo} className="logo-dark" alt="Logo" />
-                                  
+                                    <img src={logoLight} className="logo" alt="Logo" />
+                                    <img src={logo} className="logo-dark" alt="Logo" />
+
                                 </Link>
                             </div>
                         </div>
