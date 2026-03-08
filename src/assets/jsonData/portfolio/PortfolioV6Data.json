@@ -3,48 +3,44 @@
         "id": 1,
         "thumb": "55.jpg",
         "thumbFull": "55-full.jpg",
-        "title": "Photo shooting & creative product editing",
-        "tag": "Marketing",
+        "title": "Vehicle Marketplace Platform",
+        "tag": "Web App",
         "date": "February 18, 2025"
     },
     {
         "id": 2,
         "thumb": "54.jpg",
         "thumbFull": "54-full.jpg",
-        "title": "Blue business mockup cards color standard",
-        "tag": "Technology",
-        "date": "June 15, 2025"
-    },
-    {
-        "id": 3,
+        "title": "Modern LMS with Course Management",
+        "tag": "SaaS",
         "thumb": "56.jpg",
         "thumbFull": "56-full.jpg",
-        "title": "Simple black & white interface design",
-        "tag": "Branding",
+        "title": "Enterprise Business Management System",
+        "tag": "Enterprise",
         "date": "March 24, 2025"
     },
     {
         "id": 4,
         "thumb": "57.jpg",
         "thumbFull": "57-full.jpg",
-        "title": "Quality in digital standard fact mockup",
-        "tag": "Business",
+        "title": "AI-Powered Analytics Dashboard",
+        "tag": "AI",
         "date": "April 23, 2025"
     },
     {
         "id": 5,
         "thumb": "58.jpg",
         "thumbFull": "58-full.jpg",
-        "title": "Photo shooting & creative product editing",
-        "tag": "Technology",
+        "title": "Healthcare Cross-Platform Mobile App",
+        "tag": "Mobile",
         "date": "June 15, 2025"
     },
     {
         "id": 6,
         "thumb": "59.jpg",
         "thumbFull": "59-full.jpg",
-        "title": "Blue business mockup cards color standard",
-        "tag": "Technology",
+        "title": "Serverless Architecture & CI/CD Pipeline",
+        "tag": "DevOps",
         "date": "June 15, 2025"
     }
 ]

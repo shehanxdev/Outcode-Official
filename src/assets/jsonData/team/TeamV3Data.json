@@ -2,41 +2,41 @@
     {
         "id": 1,
         "thumb": "1.jpg",
-        "name": "Istiak Ahmed",
-        "designation": "CEO & Founder",
-        "text": "Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved.",
+        "name": "Deshitha Thennakoon",
+        "designation": "Founder & CEO",
+        "text": "Passionate about building scalable digital solutions that empower businesses to grow. Leading Outcode's vision of engineering excellence and innovation.",
         "age": "28",
-        "email": "Istiak@digital.com",
-        "phone": "+44-20-7328-4499"
+        "email": "deshitha@outcode.lk",
+        "phone": "+94-77-123-4567"
     },
     {
         "id": 2,
         "thumb": "7.jpg",
-        "name": "Kevin Martin",
-        "designation": "Product Manager",
-        "text": "Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved.",
-        "age": "29",
-        "email": "Kevin@digital.com",
-        "phone": "+44-20-7328-4500"
+        "name": "Kavindu Perera",
+        "designation": "Lead Software Engineer",
+        "text": "Expert in full-stack development with deep experience in React, Node.js, and cloud-native architecture. Driving technical excellence across all projects.",
+        "age": "27",
+        "email": "kavindu@outcode.lk",
+        "phone": "+94-77-234-5678"
     },
     {
         "id": 3,
         "thumb": "3.jpg",
-        "name": "Sarah Albert",
-        "designation": "Financial Consultant",
-        "text": "Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved.",
-        "age": "30",
-        "email": "Sarah@digital.com",
-        "phone": "+44-20-7328-4501"
+        "name": "Nimasha Fernando",
+        "designation": "UI/UX Designer",
+        "text": "Creating modern, intuitive, and user-centered design experiences. Specializing in design systems and interactive prototyping for digital products.",
+        "age": "26",
+        "email": "nimasha@outcode.lk",
+        "phone": "+94-77-345-6789"
     },
     {
         "id": 4,
         "thumb": "4.jpg",
-        "name": "Jason Joey",
-        "designation": "Developer",
-        "text": "Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved.",
-        "age": "31",
-        "email": "Jason@digital.com",
-        "phone": "+44-20-7328-4502"
+        "name": "Tharindu Silva",
+        "designation": "Cloud Architect",
+        "text": "Designing secure and scalable cloud infrastructure using AWS, Docker, and modern DevOps practices. Ensuring reliable deployments and system performance.",
+        "age": "29",
+        "email": "tharindu@outcode.lk",
+        "phone": "+94-77-456-7890"
     }
 ]

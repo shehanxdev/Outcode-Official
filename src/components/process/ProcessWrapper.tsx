@@ -19,7 +19,7 @@ const ProcessWrapper = () => {
                                         threshold={0.2}
                                         rootMargin="-50px"
                                     >
-                                        Best Solutions Provider
+                                        How We Build Solutions
                                     </SplitText>
                                 </h2>
                             </div>

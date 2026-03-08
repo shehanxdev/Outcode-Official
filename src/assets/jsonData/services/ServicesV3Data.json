@@ -4,9 +4,9 @@
         "activeClass": "out",
         "icon": "12.png",
         "iconLight": "31.png",
-        "titleFirst": "Marketing & SEO",
-        "titleLast": "Optimization",
-        "text": "Explained jas something an regular keep dissimilar. Perfect get joy you instrument out reasonably. Again keeps at no meant stuff. Stuff comort for avobe perfection.",
+        "titleFirst": "Custom Software",
+        "titleLast": "Development",
+        "text": "Enterprise systems, SaaS platforms, and tailored digital solutions designed to solve complex business challenges and accelerate digital transformation.",
         "number": "01"
     },
     {
@@ -14,9 +14,9 @@
         "activeClass": "",
         "icon": "13.png",
         "iconLight": "32.png",
-        "titleFirst": "Mobile App & Web",
-        "titleLast": "Development",
-        "text": "Explained jas something an regular keep dissimilar. Perfect get joy you instrument out reasonably. Again keeps at no meant stuff. Stuff comort for avobe perfection.",
+        "titleFirst": "Web & Mobile",
+        "titleLast": "Applications",
+        "text": "Scalable web platforms and high-performance mobile apps built with React, Next.js, Node.js, and modern cross-platform technologies.",
         "number": "02"
     },
     {
@@ -24,9 +24,9 @@
         "activeClass": "",
         "icon": "15.png",
         "iconLight": "34.png",
-        "titleFirst": "Access to the",
-        "titleLast": "Latest Technology",
-        "text": "Explained jas something an regular keep dissimilar. Perfect get joy you instrument out reasonably. Again keeps at no meant stuff. Stuff comort for avobe perfection.",
+        "titleFirst": "Cloud & AI",
+        "titleLast": "Solutions",
+        "text": "AWS architecture, serverless infrastructure, CI/CD pipelines, and intelligent automation with chatbots, ML systems, and predictive analytics.",
         "number": "03"
     }
 ]

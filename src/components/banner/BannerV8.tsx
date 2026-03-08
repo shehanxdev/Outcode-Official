@@ -1,4 +1,5 @@
-import illustration1 from '/assets/img/illustration/1.png';
+// import illustration1 from '/assets/img/illustration/1.png';
+import illustration1 from '/assets/img/illustration/111.png';
 import { Link } from "react-router-dom";
 import CountUp from 'react-countup';
 import SplitText from "../animation/SplitText.jsx"

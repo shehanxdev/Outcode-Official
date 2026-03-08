@@ -3,14 +3,14 @@
         "id": 1,
         "thumb": "1.jpg",
         "thumbLight": "43.jpg",
-        "text": "Motion",
-        "textBold": "Graphics"
+        "text": "Web",
+        "textBold": "Platforms"
     },
     {
         "id": 2,
         "thumb": "2.jpg",
         "thumbLight": "42.jpg",
-        "text": "Market",
-        "textBold": "Branding"
+        "text": "Cloud",
+        "textBold": "Solutions"
     }
 ]

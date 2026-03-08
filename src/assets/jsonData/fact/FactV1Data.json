@@ -2,9 +2,9 @@
     {
         "id": 1,
         "animation": "animate__animated animate__fadeInDown",
-        "count": 360,
-        "suffix": "K",
-        "label": "World Customer",
+        "count": 50,
+        "suffix": "+",
+        "label": "Projects Delivered",
         "duration": "0"
     },
     {
@@ -12,23 +12,23 @@
         "animation": "animate__animated animate__fadeInUp",
         "count": 98,
         "suffix": "%",
-        "label": "Positive Rating",
+        "label": "Client Satisfaction",
         "duration": "0.5s"
     },
     {
         "id": 3,
         "animation": "animate__animated animate__fadeInDown",
-        "count": 874,
+        "count": 30,
         "suffix": "+",
-        "label": "Total Branch",
+        "label": "Global Clients",
         "duration": "0"
     },
     {
         "id": 4,
         "animation": "animate__animated animate__fadeInUp",
-        "count": 35,
-        "suffix": "",
-        "label": "Years experience",
+        "count": 5,
+        "suffix": "+",
+        "label": "Years Experience",
         "duration": "0.5s"
     }
 ]

@@ -1,30 +1,30 @@
 [
     {
         "id": 1,
-        "title": "Research",
+        "title": "Discovery",
         "thumb": "5.png",
         "thumbLight": "27.png",
-        "text": "Remarkably on estimating. Side in so life past. Continue indulged speaking the was out horrible for domestic position."
+        "text": "Understanding your business goals, project requirements, and target audience to lay the foundation for a successful digital solution."
     },
     {
         "id": 2,
-        "title": "Concept",
+        "title": "Strategy",
         "thumb": "6.png",
         "thumbLight": "28.png",
-        "text": "Terminators on estimating. Side in so life past. Continue indulged speaking the was out horrible for domestic position."
+        "text": "Designing the system architecture, selecting the right technology stack, and building a clear project roadmap aligned with your vision."
     },
     {
         "id": 3,
-        "title": "Implement",
+        "title": "Development",
         "thumb": "7.png",
         "thumbLight": "29.png",
-        "text": "Remarkably on estimating. Side in so life past. Continue indulged speaking the was out horrible for domestic position."
+        "text": "Building scalable software using best engineering practices with modern frameworks like React, Next.js, Node.js, and cloud-native architecture."
     },
     {
         "id": 4,
-        "title": "Handover",
+        "title": "Deployment",
         "thumb": "8.png",
         "thumbLight": "30.png",
-        "text": "Trensination on estimating. Side in so life past. Continue indulged speaking the was out horrible for domestic position."
+        "text": "Launching applications using secure cloud infrastructure with CI/CD pipelines, followed by continuous monitoring, updates, and improvements."
     }
 ]

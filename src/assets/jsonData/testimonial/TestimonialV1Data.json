@@ -1,23 +1,23 @@
 [
     {
         "id": 1,
-        "review": "Targeting consultation discover apartments. Indulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now always remembering to the point at dimension per technical issue.",
-        "name": "Michel Dark",
-        "designation": "Envato Client",
+        "review": "Outcode built a robust vehicle marketplace from the ground up. Their technical expertise in React and Node.js resulted in a platform that handles thousands of listings seamlessly. The team was professional and communicative throughout the entire project.",
+        "name": "Andrew Mitchell",
+        "designation": "CEO, AutoHub",
         "thumb": "10.jpg"
     },
     {
         "id": 2,
-        "review": "Targeting consultation discover apartments. Indulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now always remembering to the point at dimension per technical issue.",
-        "name": "Michel Dark",
-        "designation": "Envato Client",
+        "review": "We partnered with Outcode for our cloud migration and the results were outstanding. They reduced our infrastructure costs by 40% while improving performance. Their DevOps expertise and proactive approach made the transition smooth and worry-free.",
+        "name": "Sarah Chen",
+        "designation": "CTO, EduTech Solutions",
         "thumb": "11.jpg"
     },
     {
         "id": 3,
-        "review": "Targeting consultation discover apartments. Indulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now always remembering to the point at dimension per technical issue.",
-        "name": "Michel Dark",
-        "designation": "Envato Client",
+        "review": "The enterprise system Outcode developed has transformed how we operate. From requirements gathering to deployment, their process was transparent and efficient. They delivered a scalable solution that our team uses daily across three countries.",
+        "name": "James Rodriguez",
+        "designation": "COO, GlobalTrade Inc",
         "thumb": "12.jpg"
     }
 ]

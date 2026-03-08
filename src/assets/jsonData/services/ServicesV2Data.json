@@ -3,30 +3,30 @@
         "id": 1,
         "activeClass": "active",
         "icon": "17.png",
-        "subTitle": "Connection",
-        "title": "Perfect UI/UX Designing",
-        "text": "Continue indulged speaking the was out horrible for domestic position. Seeing rather her you not esteem men settle genius excuse. Deal say over you age from. Comparison new.",
-        "listData": ["Information architecture", "Digital Designer", "Interaction design"],
+        "subTitle": "Engineering",
+        "title": "Custom Software Development",
+        "text": "Enterprise systems, SaaS platforms, automation tools, and tailored digital solutions designed to solve complex business challenges and drive measurable results.",
+        "listData": ["Enterprise systems", "SaaS platforms", "Automation tools"],
         "illustration": "2.png"
     },
     {
         "id": 2,
         "activeClass": "",
         "icon": "18.png",
-        "subTitle": "Collaboration",
-        "title": "Social Media Marketing",
-        "text": "Regular indulged speaking the was out horrible for domestic position. Seeing rather her you not esteem men settle genius excuse. Deal say over you age from. Comparison new.",
-        "listData": ["Content marketing", "Affiliate marketing", "Search engine optimization"],
+        "subTitle": "Development",
+        "title": "Web & Mobile Applications",
+        "text": "Scalable web platforms and high-performance mobile apps built with React, Next.js, Node.js, and modern cross-platform technologies for seamless experiences.",
+        "listData": ["React & Next.js", "Cross-platform mobile", "Progressive web apps"],
         "illustration": "3.png"
     },
     {
         "id": 3,
         "activeClass": "",
         "icon": "19.png",
-        "subTitle": "Innovations",
-        "title": "Branding & Stationery",
-        "text": "Continue indulged speaking the was out horrible for domestic position. Seeing rather her you not esteem men settle genius excuse. Deal say over you age from. Comparison new.",
-        "listData": ["Product branding", "Retail branding", "Service branding"],
+        "subTitle": "Infrastructure",
+        "title": "Cloud & AI Solutions",
+        "text": "Secure and scalable cloud architecture using AWS, Docker, and CI/CD pipelines. Intelligent automation with chatbots, ML systems, and predictive analytics.",
+        "listData": ["AWS architecture", "CI/CD pipelines", "AI & machine learning"],
         "illustration": "4.png"
     }
 ]

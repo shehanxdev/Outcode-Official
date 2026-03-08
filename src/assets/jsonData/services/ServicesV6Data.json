@@ -2,25 +2,25 @@
     {
         "id": 1,
         "icon": "9.png",
-        "subTitle": "Connection",
-        "title": "Perfect UI/UX Designing",
-        "text": "Continue indulged speaking the was out horrible for domestic position. Seeing rather her you not esteem men settle genius excuse. Deal say over you age from. Comparison new.",
+        "subTitle": "Engineering",
+        "title": "Custom Software Development",
+        "text": "Enterprise systems, SaaS platforms, automation tools, and tailored digital solutions built to solve complex business challenges and drive growth.",
         "number": "01"
     },
     {
         "id": 2,
         "icon": "10.png",
-        "subTitle": "Collaboration",
-        "title": "Social Media Marketing",
-        "text": "Regular indulged speaking the was out horrible for domestic position. Seeing rather her you not esteem men settle genius excuse. Deal say over you age from. Comparison new.",
+        "subTitle": "Development",
+        "title": "Web & Mobile Applications",
+        "text": "Scalable web platforms and cross-platform mobile apps built with React, Next.js, and Node.js for high-performance user experiences.",
         "number": "02"
     },
     {
         "id": 3,
         "icon": "11.png",
-        "subTitle": "Innovations",
-        "title": "Branding & Stationery",
-        "text": "Continue indulged speaking the was out horrible for domestic position. Seeing rather her you not esteem men settle genius excuse. Deal say over you age from. Comparison new.",
+        "subTitle": "Infrastructure",
+        "title": "Cloud & AI Solutions",
+        "text": "Secure cloud architecture using AWS and Docker, with intelligent automation including chatbots, ML systems, and predictive analytics.",
         "number": "03"
     }
 ]

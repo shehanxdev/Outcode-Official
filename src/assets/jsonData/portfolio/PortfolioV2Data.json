@@ -2,29 +2,29 @@
     {
         "id": 1,
         "thumb": "28.jpg",
-        "tag": "Marketing",
+        "tag": "Web App",
         "date": "August, 2024",
-        "text": "Photo shooting & creative product editing"
+        "text": "Vehicle marketplace connecting buyers & sellers"
     },
     {
         "id": 2,
         "thumb": "29.jpg",
-        "tag": "Creative",
-        "date": "March, 2023",
-        "text": "Quality in digital industrial"
+        "tag": "SaaS",
+        "date": "March, 2025",
+        "text": "Modern learning management system with analytics"
     },
     {
         "id": 3,
         "thumb": "30.jpg",
-        "tag": "Design",
+        "tag": "Enterprise",
         "date": "November, 2024",
-        "text": "Blue business and mockup cards color standard"
+        "text": "Enterprise business & inventory management system"
     },
     {
         "id": 4,
         "thumb": "31.jpg",
-        "tag": "Business",
-        "date": "September, 2024",
-        "text": "Simple black & white design"
+        "tag": "AI",
+        "date": "September, 2025",
+        "text": "AI-powered predictive analytics dashboard"
     }
 ]

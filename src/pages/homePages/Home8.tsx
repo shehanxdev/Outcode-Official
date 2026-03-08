@@ -25,12 +25,12 @@ const Home8 = () => {
             <BannerV7 />
             <ServicesV5 sectionClass='bg-gray' />
             <AboutV5 sectionClass='blurry-shape-left' />
-            <PortfolioV4 sectionClass='bg-gray default-padding' hasTitle={true} />
+            {/* <PortfolioV4 sectionClass='bg-gray default-padding' hasTitle={true} /> */}
             <ProcessWrapper />
-            <TeamV2 />
+            {/* <TeamV2 /> */}
             {/* <AwardV1 sectionClass='default-padding-top' /> */}
-            <TestimonialV3 />
-            <BlogV1 sectionClass='bg-gray' />
+            {/* <TestimonialV3 /> */}
+            {/* <BlogV1 sectionClass='bg-gray' /> */}
             <FooterV4 sectionClass='bg-gray' />
             <DarkClass />
             <ThemeDark />

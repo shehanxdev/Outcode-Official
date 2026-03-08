@@ -3,48 +3,48 @@
         "id": 1,
         "icon": "1.png",
         "iconLight": "23.png",
-        "title": "Marketing & SEO Optimization",
-        "text": "Explained jas something an. Contrasted dissimilar get joy you instrument out reasonably. Again keeps at no meant stuff.",
+        "title": "Custom Software Development",
+        "text": "Enterprise systems, SaaS platforms, automation tools, and tailored digital solutions built to meet your unique business needs.",
         "activeClass": ""
     },
     {
         "id": 2,
         "icon": "2.png",
         "iconLight": "24.png",
-        "title": "Mobile App & Web Development",
-        "text": "Explained jas something an. Contrasted dissimilar get joy you instrument out reasonably. Again keeps at no meant stuff.",
+        "title": "Web Application Development",
+        "text": "Scalable web platforms built using modern frameworks such as React, Next.js, and Node.js for high-performance experiences.",
         "activeClass": "active"
     },
     {
         "id": 3,
         "icon": "3.png",
         "iconLight": "25.png",
-        "title": "UI/UX Design from Professionals",
-        "text": "Explained jas something an. Contrasted dissimilar get joy you instrument out reasonably. Again keeps at no meant stuff.",
+        "title": "Mobile Application Development",
+        "text": "High-performance mobile apps for Android and iOS using modern cross-platform technologies for seamless user experiences.",
         "activeClass": ""
     },
     {
         "id": 4,
         "icon": "4.png",
         "iconLight": "26.png",
-        "title": "Access to the Latest Technology",
-        "text": "Explained jas something an. Contrasted dissimilar get joy you instrument out reasonably. Again keeps at no meant stuff.",
+        "title": "Cloud & DevOps Solutions",
+        "text": "AWS architecture, serverless infrastructure, CI/CD pipelines, and automated deployments for reliable cloud operations.",
         "activeClass": ""
     },
     {
         "id": 5,
         "icon": "1.png",
         "iconLight": "23.png",
-        "title": "Marketing & SEO Optimization",
-        "text": "Explained jas something an. Contrasted dissimilar get joy you instrument out reasonably. Again keeps at no meant stuff.",
+        "title": "AI & Automation",
+        "text": "Chatbots, machine learning systems, predictive analytics, and intelligent automation tools that drive business efficiency.",
         "activeClass": ""
     },
     {
         "id": 6,
         "icon": "2.png",
         "iconLight": "24.png",
-        "title": "Mobile App & Web Development",
-        "text": "Explained jas something an. Contrasted dissimilar get joy you instrument out reasonably. Again keeps at no meant stuff.",
-        "activeClass": "active"
+        "title": "UI/UX Design",
+        "text": "Creating modern, intuitive, and user-centered design experiences that enhance engagement and drive conversions.",
+        "activeClass": ""
     }
 ]

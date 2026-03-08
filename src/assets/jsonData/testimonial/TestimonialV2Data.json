@@ -1,166 +1,118 @@
-{
+﻿{
     "quoteData": [
         {
             "id": 1,
-            "name": "Michel Dark",
-            "designation": "Envato Client",
-            "quote": "Targeting consultation discover apartments. ndulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties practasing why she shewing now remembering."
+            "name": "Andrew Mitchell",
+            "designation": "CEO, AutoHub",
+            "quote": "Outcode built a robust vehicle marketplace that handles thousands of listings seamlessly. Their technical expertise in React and cloud architecture made all the difference in delivering a scalable solution on time."
         },
         {
             "id": 2,
-            "name": "John Doe",
-            "designation": "Business Owner",
-            "quote": "Engagement consultation across various sectors is key to improving efficiency. Strategic thinking often leads to exponential growth when applied correctly. Understanding the customer’s needs creates a winning solution."
+            "name": "Sarah Chen",
+            "designation": "CTO, EduTech Solutions",
+            "quote": "Our learning management platform built by Outcode has transformed how we deliver education. Their team understood our requirements perfectly and built a modern system with analytics that our students and teachers love."
         },
         {
             "id": 3,
-            "name": "Anna Smith",
-            "designation": "Creative Director",
-            "quote": "Collaborative efforts within the design team enabled us to come up with innovative solutions. Understanding the nuances of modern trends has really pushed our project outcomes to the next level."
+            "name": "James Rodriguez",
+            "designation": "COO, GlobalTrade Inc",
+            "quote": "The enterprise system Outcode developed has streamlined our operations across three countries. Their attention to detail and commitment to quality was outstanding throughout the project lifecycle."
         },
         {
             "id": 4,
-            "name": "James Bond",
-            "designation": "Consultant",
-            "quote": "Through critical thinking and adaptive strategy, we can transform challenges into opportunities. The key to success lies in the execution and alignment of vision across all teams."
+            "name": "David Park",
+            "designation": "Founder, FinEdge",
+            "quote": "Outcode's cloud migration services reduced our infrastructure costs by 40% while improving performance. Their DevOps expertise was instrumental in making our platform scalable and reliable."
         },
         {
             "id": 5,
-            "name": "Michel Dark",
-            "designation": "Envato Client",
-            "quote": "Targeting consultation discover apartments. ndulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties practasing why she shewing now remembering."
+            "name": "Andrew Mitchell",
+            "designation": "CEO, AutoHub",
+            "quote": "Outcode built a robust vehicle marketplace that handles thousands of listings seamlessly. Their technical expertise in React and cloud architecture made all the difference in delivering a scalable solution on time."
         },
         {
             "id": 6,
-            "name": "John Doe",
-            "designation": "Business Owner",
-            "quote": "Engagement consultation across various sectors is key to improving efficiency. Strategic thinking often leads to exponential growth when applied correctly. Understanding the customer’s needs creates a winning solution."
+            "name": "Sarah Chen",
+            "designation": "CTO, EduTech Solutions",
+            "quote": "Our learning management platform built by Outcode has transformed how we deliver education. Their team understood our requirements perfectly and built a modern system with analytics that our students and teachers love."
         },
         {
             "id": 7,
-            "name": "Anna Smith",
-            "designation": "Creative Director",
-            "quote": "Collaborative efforts within the design team enabled us to come up with innovative solutions. Understanding the nuances of modern trends has really pushed our project outcomes to the next level."
+            "name": "James Rodriguez",
+            "designation": "COO, GlobalTrade Inc",
+            "quote": "The enterprise system Outcode developed has streamlined our operations across three countries. Their attention to detail and commitment to quality was outstanding throughout the project lifecycle."
         },
         {
             "id": 8,
-            "name": "James Bond",
-            "designation": "Consultant",
-            "quote": "Through critical thinking and adaptive strategy, we can transform challenges into opportunities. The key to success lies in the execution and alignment of vision across all teams."
+            "name": "David Park",
+            "designation": "Founder, FinEdge",
+            "quote": "Outcode's cloud migration services reduced our infrastructure costs by 40% while improving performance. Their DevOps expertise was instrumental in making our platform scalable and reliable."
         },
         {
             "id": 9,
-            "name": "Michel Dark",
-            "designation": "Envato Client",
-            "quote": "Targeting consultation discover apartments. ndulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties practasing why she shewing now remembering."
+            "name": "Andrew Mitchell",
+            "designation": "CEO, AutoHub",
+            "quote": "Outcode built a robust vehicle marketplace that handles thousands of listings seamlessly. Their technical expertise in React and cloud architecture made all the difference in delivering a scalable solution on time."
         },
         {
             "id": 10,
-            "name": "John Doe",
-            "designation": "Business Owner",
-            "quote": "Engagement consultation across various sectors is key to improving efficiency. Strategic thinking often leads to exponential growth when applied correctly. Understanding the customer’s needs creates a winning solution."
+            "name": "Sarah Chen",
+            "designation": "CTO, EduTech Solutions",
+            "quote": "Our learning management platform built by Outcode has transformed how we deliver education. Their team understood our requirements perfectly and built a modern system with analytics that our students and teachers love."
         },
         {
             "id": 11,
-            "name": "Anna Smith",
-            "designation": "Creative Director",
-            "quote": "Collaborative efforts within the design team enabled us to come up with innovative solutions. Understanding the nuances of modern trends has really pushed our project outcomes to the next level."
+            "name": "James Rodriguez",
+            "designation": "COO, GlobalTrade Inc",
+            "quote": "The enterprise system Outcode developed has streamlined our operations across three countries. Their attention to detail and commitment to quality was outstanding throughout the project lifecycle."
         },
         {
             "id": 12,
-            "name": "James Bond",
-            "designation": "Consultant",
-            "quote": "Through critical thinking and adaptive strategy, we can transform challenges into opportunities. The key to success lies in the execution and alignment of vision across all teams."
+            "name": "David Park",
+            "designation": "Founder, FinEdge",
+            "quote": "Outcode's cloud migration services reduced our infrastructure costs by 40% while improving performance. Their DevOps expertise was instrumental in making our platform scalable and reliable."
         },
         {
             "id": 13,
-            "name": "Michel Dark",
-            "designation": "Envato Client",
-            "quote": "Targeting consultation discover apartments. ndulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties practasing why she shewing now remembering."
+            "name": "Andrew Mitchell",
+            "designation": "CEO, AutoHub",
+            "quote": "Outcode built a robust vehicle marketplace that handles thousands of listings seamlessly. Their technical expertise in React and cloud architecture made all the difference in delivering a scalable solution on time."
         },
         {
             "id": 14,
-            "name": "John Doe",
-            "designation": "Business Owner",
-            "quote": "Engagement consultation across various sectors is key to improving efficiency. Strategic thinking often leads to exponential growth when applied correctly. Understanding the customer’s needs creates a winning solution."
+            "name": "Sarah Chen",
+            "designation": "CTO, EduTech Solutions",
+            "quote": "Our learning management platform built by Outcode has transformed how we deliver education. Their team understood our requirements perfectly and built a modern system with analytics that our students and teachers love."
         },
         {
             "id": 15,
-            "name": "Anna Smith",
-            "designation": "Creative Director",
-            "quote": "Collaborative efforts within the design team enabled us to come up with innovative solutions. Understanding the nuances of modern trends has really pushed our project outcomes to the next level."
+            "name": "James Rodriguez",
+            "designation": "COO, GlobalTrade Inc",
+            "quote": "The enterprise system Outcode developed has streamlined our operations across three countries. Their attention to detail and commitment to quality was outstanding throughout the project lifecycle."
         },
         {
             "id": 16,
-            "name": "James Bond",
-            "designation": "Consultant",
-            "quote": "Through critical thinking and adaptive strategy, we can transform challenges into opportunities. The key to success lies in the execution and alignment of vision across all teams."
+            "name": "David Park",
+            "designation": "Founder, FinEdge",
+            "quote": "Outcode's cloud migration services reduced our infrastructure costs by 40% while improving performance. Their DevOps expertise was instrumental in making our platform scalable and reliable."
         }
     ],
     "navigationData": [
-        {
-            "id": 1,
-            "thumb": "11.jpg"
-        },
-        {
-            "id": 2,
-            "thumb": "12.jpg"
-        },
-        {
-            "id": 3,
-            "thumb": "13.jpg"
-        },
-        {
-            "id": 4,
-            "thumb": "10.jpg"
-        },
-        {
-            "id": 5,
-            "thumb": "11.jpg"
-        },
-        {
-            "id": 6,
-            "thumb": "12.jpg"
-        },
-        {
-            "id": 7,
-            "thumb": "13.jpg"
-        },
-        {
-            "id": 8,
-            "thumb": "10.jpg"
-        },
-        {
-            "id": 9,
-            "thumb": "11.jpg"
-        },
-        {
-            "id": 10,
-            "thumb": "12.jpg"
-        },
-        {
-            "id": 11,
-            "thumb": "13.jpg"
-        },
-        {
-            "id": 12,
-            "thumb": "10.jpg"
-        },
-        {
-            "id": 13,
-            "thumb": "11.jpg"
-        },
-        {
-            "id": 14,
-            "thumb": "12.jpg"
-        },
-        {
-            "id": 15,
-            "thumb": "13.jpg"
-        },
-        {
-            "id": 16,
-            "thumb": "10.jpg"
-        }
+        { "id": 1, "thumb": "11.jpg" },
+        { "id": 2, "thumb": "12.jpg" },
+        { "id": 3, "thumb": "13.jpg" },
+        { "id": 4, "thumb": "10.jpg" },
+        { "id": 5, "thumb": "11.jpg" },
+        { "id": 6, "thumb": "12.jpg" },
+        { "id": 7, "thumb": "13.jpg" },
+        { "id": 8, "thumb": "10.jpg" },
+        { "id": 9, "thumb": "11.jpg" },
+        { "id": 10, "thumb": "12.jpg" },
+        { "id": 11, "thumb": "13.jpg" },
+        { "id": 12, "thumb": "10.jpg" },
+        { "id": 13, "thumb": "11.jpg" },
+        { "id": 14, "thumb": "12.jpg" },
+        { "id": 15, "thumb": "13.jpg" },
+        { "id": 16, "thumb": "10.jpg" }
     ]
 }

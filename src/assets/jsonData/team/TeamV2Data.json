@@ -2,19 +2,19 @@
     {
         "id": 1,
         "thumb": "14.jpg",
-        "name": "James Baker",
-        "designation": "Co-Founder, Dixor"
+        "name": "Deshitha Thennakoon",
+        "designation": "Founder & CEO, Outcode"
     },
     {
         "id": 2,
         "thumb": "15.jpg",
-        "name": "Dalton Grant",
-        "designation": "CEO, Validthemes"
+        "name": "Kavindu Perera",
+        "designation": "Lead Engineer, Outcode"
     },
     {
         "id": 3,
         "thumb": "16.jpg",
-        "name": "Ryan Ricketts",
-        "designation": "UX Designer"
+        "name": "Nimasha Fernando",
+        "designation": "UI/UX Designer"
     }
 ]

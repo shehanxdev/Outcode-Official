@@ -1,5 +1,7 @@
-import thumb9 from '/assets/img/thumb/9.jpg';
-import thumb8 from '/assets/img/thumb/8.jpg';
+// import thumb9 from '/assets/img/thumb/9.jpg';
+import thumb9 from '/assets/img/thumb/99.png';
+import thumb8 from '/assets/img/thumb/88.png';
+// import thumb8 from '/assets/img/thumb/8.jpg';
 import thumb14 from '/assets/img/thumb/14.jpg';
 import { Link } from "react-router-dom";
 import CountUp from 'react-countup';
@@ -9,7 +11,7 @@ const BannerV7 = () => {
     return (
         <>
             <div className="banner-style-seven-area bg-cover"
-                style={{ backgroundImage: `url(/assets/img/shape/1.jpg)`}}>
+                style={{ backgroundImage: `url(/assets/img/shape/1.jpg)` }}>
                 <div className="light-banner-active bg-light bg-cover" />
                 <div className="container">
                     <div className="row">
@@ -24,7 +26,7 @@ const BannerV7 = () => {
                                         threshold={0.2}
                                         rootMargin="-50px"
                                     >
-                                        Unike Digital
+                                        Transforming Ideas
                                     </SplitText>
                                 </h2>
                                 <h2 className="text-end split-text">
@@ -36,7 +38,7 @@ const BannerV7 = () => {
                                         threshold={0.2}
                                         rootMargin="-50px"
                                     >
-                                        Experience
+                                        Into Digital Solutions
                                     </SplitText>
                                 </h2>
                             </div>
@@ -49,20 +51,20 @@ const BannerV7 = () => {
                             <div className="col-xl-6 col-lg-5">
                                 <div className="banner-seven-thumb">
                                     <img src={thumb8} alt="Image Not Found" />
-                                    <img className='regular-img' src={thumb9} alt="Image Not Found" />
+                                    {/* <img className='regular-img' src={thumb9} alt="Image Not Found" /> */}
                                     <img className="light-img" src={thumb14} alt="Image Not Found" />
 
                                 </div>
                             </div>
                             <div className="col-xl-6 col-lg-7">
                                 <div className="content">
-                                    <div className="fun-fact">
+                                    {/* <div className="fun-fact">
                                         <div className="counter">
-                                            <div className="timer"><CountUp end={38} enableScrollSpy /></div>
-                                            <div className="operator">K</div>
+                                            <div className="timer"><CountUp end={50} enableScrollSpy /></div>
+                                            <div className="operator">+</div>
                                         </div>
-                                        <span className="medium">Completed Projects</span>
-                                    </div>
+                                        <span className="medium">Projects Delivered</span>
+                                    </div> */}
                                     <div className="info-right">
 
                                         <p className="split-text">
@@ -74,7 +76,7 @@ const BannerV7 = () => {
                                                 threshold={0.2}
                                                 rootMargin="-50px"
                                             >
-                                                Excellence projecting is devonshire dispatched remarkably on estimating. Side in so life past. Continue indulged speaking the was out horrible for domestic.
+                                                We combine engineering excellence with innovative thinking to help businesses grow through scalable digital platforms, cloud systems, and intelligent software solutions.
                                             </SplitText>
                                         </p>
 

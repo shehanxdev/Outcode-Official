@@ -1,34 +1,34 @@
 [
     {
         "id": 1,
-        "titleFirst": "Marketing SEO",
-        "titleLast": "Optimization",
+        "titleFirst": "Custom Software",
+        "titleLast": "Development",
         "icon": "9.png",
-        "text": "Regular at up zealously necessary is regular breakfast. Surrounded motionless she end literature. Time is neglects supported yet melancho themselve. Biggest agencies. The user experience: the first mention of the user and its.",
+        "text": "Enterprise systems, SaaS platforms, automation tools, and tailored digital solutions. We build secure, scalable software optimized for real-world use that delivers measurable business results.",
         "number": "01"
     },
     {
         "id": 2,
-        "titleFirst": "Mobile App &",
-        "titleLast": "Web Development",
+        "titleFirst": "Web & Mobile",
+        "titleLast": "Applications",
         "icon": "11.png",
-        "text": "Continued at up zealously necessary is regular breakfast. Surrounded motionless she end literature. Time is neglects supported yet melancho themselve. Biggest agencies. The user experience: the first mention of the user and its.",
+        "text": "Scalable web platforms built with React, Next.js, and Node.js. High-performance mobile apps for Android and iOS using modern cross-platform technologies for seamless experiences.",
         "number": "02"
     },
     {
         "id": 3,
-        "titleFirst": "UI/UX Design",
-        "titleLast": "from Professionals",
+        "titleFirst": "Cloud & DevOps",
+        "titleLast": "Solutions",
         "icon": "12.png",
-        "text": "Continued at up zealously necessary is regular breakfast. Surrounded motionless she end literature. Time is neglects supported yet melancho themselve. Biggest agencies. The user experience: the first mention of the user and its.",
+        "text": "AWS architecture, serverless infrastructure, CI/CD pipelines, and automated deployments. We design secure and scalable cloud systems using modern DevOps practices.",
         "number": "03"
     },
     {
         "id": 4,
-        "titleFirst": "Access to the",
-        "titleLast": "Latest Technology",
+        "titleFirst": "AI & Intelligent",
+        "titleLast": "Automation",
         "icon": "13.png",
-        "text": "Continued at up zealously necessary is regular breakfast. Surrounded motionless she end literature. Time is neglects supported yet melancho themselve. Biggest agencies. The user experience: the first mention of the user and its.",
+        "text": "Chatbots, machine learning systems, predictive analytics, and intelligent automation tools. We build AI-powered solutions that automate processes and support smarter decision-making.",
         "number": "04"
     }
 ]

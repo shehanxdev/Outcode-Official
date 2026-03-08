@@ -2,25 +2,25 @@
     {
         "id": 1,
         "thumb": "3.jpg",
-        "title": "Photo shooting & creative product editing",
-        "tag": "Marketing"
+        "title": "Vehicle Marketplace with Search & Listings",
+        "tag": "Web App"
     },
     {
         "id": 2,
         "thumb": "4.jpg",
-        "title": "Blue business and mockup cards color standard",
-        "tag": "UX Design"
+        "title": "Learning Management System with Analytics",
+        "tag": "SaaS"
     },
     {
         "id": 3,
         "thumb": "5.jpg",
-        "title": "Simple black & white interface design",
-        "tag": "Branding"
+        "title": "Enterprise Inventory & Finance System",
+        "tag": "Enterprise"
     },
     {
         "id": 4,
         "thumb": "6.jpg",
-        "title": "Quality in digital industrial layout",
-        "tag": "Business"
+        "title": "AI-Powered Predictive Analytics Engine",
+        "tag": "AI"
     }
 ]

@@ -20,7 +20,7 @@ const PortfolioV4 = ({ sectionClass, hasTitle }: DataType) => {
                         <div className="row">
                             <div className="col-lg-6">
                                 <div className="site-heading">
-                                    <h4 className="sub-title">Popular Projects</h4>
+                                    <h4 className="sub-title">Featured Solutions</h4>
                                     <h2 className="title split-text">
                                         <SplitText
                                             delay={150}
@@ -30,7 +30,7 @@ const PortfolioV4 = ({ sectionClass, hasTitle }: DataType) => {
                                             threshold={0.2}
                                             rootMargin="-50px"
                                         >
-                                            Featured Works
+                                            Our Recent Projects
                                         </SplitText>
                                     </h2>
                                 </div>

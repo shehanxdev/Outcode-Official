@@ -26,9 +26,9 @@ const AboutV5 = ({ sectionClass }: DataType) => {
                             <div className="col-xl-4 col-lg-5">
                                 <div className="about-style-five-content" style={{ backgroundImage: 'url(/assets/img/shape/11.png)' }}>
                                     <div className="content">
-                                        <h2>670+ Project <br /> Launched</h2>
+                                        <h2>50+ Projects <br /> Delivered</h2>
                                         <p>
-                                            Seeing rather her you not esteem men settle genius excuse. Deal say over you age from. Comparison new ham melancholy son themselves.
+                                            Outcode is a technology-driven startup delivering innovative and reliable software solutions for startups, enterprises, and growing businesses worldwide.
                                         </p>
                                         <Link to="#"><i className="fas fa-long-arrow-right" /></Link>
                                     </div>
@@ -47,9 +47,9 @@ const AboutV5 = ({ sectionClass }: DataType) => {
                                                     <img className="light-img" src={icon31} alt="Image Not Found" />
                                                 </div>
                                                 <div className="info">
-                                                    <h4>Motion Graphics</h4>
+                                                    <h4>Cloud & DevOps</h4>
                                                     <p>
-                                                        Excellence projects regus remarkably on estimating. Side in so life past are awesome dine. Melancholy themselves.
+                                                        Secure and scalable cloud architecture using AWS, Docker, CI/CD pipelines, and modern DevOps practices for automated deployments.
                                                     </p>
                                                 </div>
                                             </li>
@@ -59,9 +59,9 @@ const AboutV5 = ({ sectionClass }: DataType) => {
                                                     <img className="light-img" src={icon32} alt="Image Not Found" />
                                                 </div>
                                                 <div className="info">
-                                                    <h4>3D Rendering</h4>
+                                                    <h4>AI & Automation</h4>
                                                     <p>
-                                                        Detailing projects regus remarkably on estimating. Side in so life past are awesome dine. Melancholy themselves.
+                                                        Intelligent systems including chatbots, machine learning, predictive analytics, and automation tools that streamline operations.
                                                     </p>
                                                 </div>
                                             </li>

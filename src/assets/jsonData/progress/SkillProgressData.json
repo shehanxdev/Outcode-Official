@@ -1,17 +1,17 @@
 [
     {
         "id": 1,
-        "title": "Creative Development",
-        "end": 88
-    },
-    {
-        "id": 2,
-        "title": "Branding Solution",
+        "title": "Web Development",
         "end": 95
     },
     {
+        "id": 2,
+        "title": "Cloud Architecture",
+        "end": 90
+    },
+    {
         "id": 3,
-        "title": "Design & Development",
-        "end": 80
+        "title": "Mobile Development",
+        "end": 88
     }
 ]

@@ -26,16 +26,27 @@ function App() {
 
   //  Preloader 
   const [isLoading, setIsLoading] = useState(true)
+  const [isFading, setIsFading] = useState(false)
 
   useEffect(() => {
-    setTimeout(() => {
-      setIsLoading(false)
+    const fadeTimer = setTimeout(() => {
+      setIsFading(true)
     }, 1200)
+
+    const removeTimer = setTimeout(() => {
+      setIsLoading(false)
+    }, 1600)
+
+    return () => {
+      clearTimeout(fadeTimer)
+      clearTimeout(removeTimer)
+    }
   }, [])
 
   return (
     <>
-      {isLoading ? <Preloader /> :
+      {isLoading && <div className={`preloader-wrapper ${isFading ? 'fade-out' : ''}`}><Preloader /></div>}
+      {(!isLoading || isFading) &&
         <>
           <Routers />
           <RoutesScrollToTop />
