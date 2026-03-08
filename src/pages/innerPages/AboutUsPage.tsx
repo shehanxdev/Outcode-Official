@@ -22,7 +22,7 @@ const AboutUsPage = () => {
                 <FunFactV1 sectionClass='default-padding-bottom bg-gray' />
                 <PartnerV2 />
                 <TeamV1 sectionClass='bg-gray' hasTitle={true} />
-                <TestimonialV3 />
+                {/* <TestimonialV3 /> */}
                 <DarkClass />
                 <ThemeDark />
             </LayoutV1>

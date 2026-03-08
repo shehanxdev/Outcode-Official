@@ -75,19 +75,19 @@ const HeaderV5 = () => {
                                                                 <li>
                                                                     <div className="content">
                                                                         <p>Address</p>
-                                                                        <strong>California, TX 70240</strong>
+                                                                        <strong>526/F3, Hokandara, Malabe, Sri Lanka</strong>
                                                                     </div>
                                                                 </li>
                                                                 <li>
                                                                     <div className="content">
                                                                         <p>Email</p>
-                                                                        <strong>support@validtheme.com</strong>
+                                                                        <strong>outcodecontact@gmail.com</strong>
                                                                     </div>
                                                                 </li>
                                                                 <li>
                                                                     <div className="content">
                                                                         <p>Contact</p>
-                                                                        <strong>+44-20-7328-4499</strong>
+                                                                        <strong>+94-77-990-0324</strong>
                                                                     </div>
                                                                 </li>
                                                             </ul>

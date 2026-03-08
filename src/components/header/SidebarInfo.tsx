@@ -39,19 +39,19 @@ const SidebarInfo = ({ openInfoBar, isInfoOpen, closeInfoBar }: SidebarInfoProps
                                     <li>
                                         <div className="content">
                                             <p>Address</p>
-                                            <strong>Colombo, Sri Lanka</strong>
+                                            <strong>526/F3, Hokandara, Malabe, Sri Lanka</strong>
                                         </div>
                                     </li>
                                     <li>
                                         <div className="content">
                                             <p>Email</p>
-                                            <strong>contact@outcode.lk</strong>
+                                            <strong>outcodecontact@gmail.com</strong>
                                         </div>
                                     </li>
                                     <li>
                                         <div className="content">
                                             <p>Contact</p>
-                                            <strong>+94-77-123-4567</strong>
+                                            <strong>+94-77-990-0324</strong>
                                         </div>
                                     </li>
                                 </ul>

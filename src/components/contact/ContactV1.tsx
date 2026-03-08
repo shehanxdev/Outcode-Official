@@ -16,20 +16,20 @@ const ContactV1 = ({ sectionClass }: DataType) => {
                                 <div className="contact-style-one-info">
                                     <ul className="contact-address">
                                         <li>
-                                            <a className="phone-link" href="tel:+94771234567"><i className="fas fa-user-headset" /> +94 77 123 4567</a>
+                                            <a className="phone-link" href="tel:+94779900324"><i className="fas fa-user-headset" /> +94 77 990 0324</a>
                                         </li>
                                         <li>
                                             <div className="info">
                                                 <h4>Location</h4>
                                                 <p>
-                                                    Colombo, Sri Lanka
+                                                    526/F3, Hokandara, Malabe, Sri Lanka
                                                 </p>
                                             </div>
                                         </li>
                                         <li>
                                             <div className="info">
                                                 <h4>Official Email</h4>
-                                                <a href="mailto:contact@outcode.lk">contact@outcode.lk</a>
+                                                <a href="mailto:outcodecontact@gmail.com">outcodecontact@gmail.com</a>
                                             </div>
                                         </li>
                                         <li>

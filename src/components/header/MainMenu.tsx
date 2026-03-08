@@ -14,9 +14,9 @@ const MainMenu = ({ navbarPlacement, toggleSubMenu }: DataType) => {
                 <li>
                     <Link to="/">Home</Link>
                 </li>
-                <li>
+                {/* <li>
                     <Link to="/about-us">About</Link>
-                </li>
+                </li> */}
                 <li className="dropdown">
                     <Link to="#" className="dropdown-toggle" data-toggle="dropdown" onClick={toggleSubMenu}>Services</Link>
                     <ul className="dropdown-menu">
@@ -24,9 +24,9 @@ const MainMenu = ({ navbarPlacement, toggleSubMenu }: DataType) => {
                         <li><Link to="/service-details/1">Web Development</Link></li>
                     </ul>
                 </li>
-                <li>
+                {/* <li>
                     <Link to="/portfolio">Portfolio</Link>
-                </li>
+                </li> */}
                 <li className="dropdown">
                     <Link to="#" className="dropdown-toggle" data-toggle="dropdown" onClick={toggleSubMenu}>Pages</Link>
                     <ul className="dropdown-menu">

@@ -24,7 +24,7 @@ const Home8 = () => {
             <HeaderV1 />
             <BannerV7 />
             <ServicesV5 sectionClass='bg-gray' />
-            <AboutV5 sectionClass='blurry-shape-left' />
+            {/* <AboutV5 sectionClass='blurry-shape-left' /> */}
             {/* <PortfolioV4 sectionClass='bg-gray default-padding' hasTitle={true} /> */}
             <ProcessWrapper />
             {/* <TeamV2 /> */}

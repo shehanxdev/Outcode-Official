@@ -50,9 +50,9 @@ const BannerV7 = () => {
                         <div className="row">
                             <div className="col-xl-6 col-lg-5">
                                 <div className="banner-seven-thumb">
-                                    <img src={thumb8} alt="Image Not Found" />
+                                    {/* <img src={thumb8} alt="Image Not Found" /> */}
                                     {/* <img className='regular-img' src={thumb9} alt="Image Not Found" /> */}
-                                    <img className="light-img" src={thumb14} alt="Image Not Found" />
+                                    {/* <img className="light-img" src={thumb14} alt="Image Not Found" /> */}
 
                                 </div>
                             </div>

@@ -19,10 +19,10 @@ const ServicesPage = () => {
             <LayoutV1>
                 <Breadcrumb title='Our Services' breadCrumb='services' />
                 <ServicesV1 sectionClass='default-padding-bottom' />
-                <FunFactV1 sectionClass='default-padding-bottom' />
-                <ClientsV1 sectionClass='bg-gray' />
-                <TestimonialV2 />
-                <PriceV1 sectionClass='bg-gray' />
+                {/* <FunFactV1 sectionClass='default-padding-bottom' /> */}
+                {/* <ClientsV1 sectionClass='bg-gray' /> */}
+                {/* <TestimonialV2 /> */}
+                {/* <PriceV1 sectionClass='bg-gray' /> */}
                 <DarkClass />
                 <ThemeDark />
             </LayoutV1>

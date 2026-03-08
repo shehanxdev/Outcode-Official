@@ -14,7 +14,7 @@ const ProjectIdeaV1 = () => {
                                 </div>
                                 <div className="info">
                                     <h4>Phone</h4>
-                                    <a className="phone-link" href="tel:+4733378901">+4733378901</a> <br />
+                                    <a className="phone-link" href="tel:+94779900324">+94 77 990 0324</a> <br />
                                 </div>
                             </li>
                             <li>
@@ -23,7 +23,7 @@ const ProjectIdeaV1 = () => {
                                 </div>
                                 <div className="info">
                                     <h4>Official Email</h4>
-                                    <a href="mailto:info@agrul.com.com">info@agrul.com</a>
+                                    <a href="mailto:outcodecontact@gmail.com">outcodecontact@gmail.com</a>
                                 </div>
                             </li>
                         </ul>

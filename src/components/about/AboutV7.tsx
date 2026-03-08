@@ -42,10 +42,10 @@ const AboutV7 = ({ sectionClass }: DataType) => {
                                         <div className="left">
                                             <ul className="list-style-one">
                                                 <li>
-                                                    <strong>Work</strong> info@outcode.com
+                                                    <strong>Work</strong> outcodecontact@gmail.com
                                                 </li>
                                                 <li>
-                                                    <strong>Company</strong> (+012)47 333 78 901
+                                                    <strong>Company</strong> +94 77 990 0324
                                                 </li>
                                             </ul>
                                             <p>

@@ -26,7 +26,7 @@ const AboutV5 = ({ sectionClass }: DataType) => {
                             <div className="col-xl-4 col-lg-5">
                                 <div className="about-style-five-content" style={{ backgroundImage: 'url(/assets/img/shape/11.png)' }}>
                                     <div className="content">
-                                        <h2>50+ Projects <br /> Delivered</h2>
+                                        <h2>55+ Projects <br /> Delivered</h2>
                                         <p>
                                             Outcode is a technology-driven startup delivering innovative and reliable software solutions for startups, enterprises, and growing businesses worldwide.
                                         </p>

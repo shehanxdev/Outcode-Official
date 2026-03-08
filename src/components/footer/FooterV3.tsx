@@ -13,21 +13,15 @@ const FooterV3 = () => {
                                 <div className="col-lg-6 footer-item about pr-120 pr-md-15 pr-xs-15 pr-md-15 pr-xs-15">
                                     <div className="top">
                                         <h2>Get Support?</h2>
-                                        <a className="quick-btn" href="mailto:someone@example.com">
+                                        <a className="quick-btn" href="mailto:outcodecontact@gmail.com">
                                             <i className="fas fa-long-arrow-right" />
                                         </a>
                                     </div>
                                     <ul className="address-list">
                                         <li>
-                                            <h4>Australia</h4>
+                                            <h4>Sri Lanka</h4>
                                             <p>
-                                                Travel World House, Level 7, 17 Jones St, NSW, 2060
-                                            </p>
-                                        </li>
-                                        <li>
-                                            <h4>Dubai</h4>
-                                            <p>
-                                                Sheikh Mohammed bin Salah, #234 B - Downtown - Dubai
+                                                526/F3, Hokandara, Malabe, Sri Lanka
                                             </p>
                                         </li>
                                     </ul>
