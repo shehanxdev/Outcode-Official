@@ -1,10 +1,10 @@
 // import thumb9 from '/assets/img/thumb/9.jpg';
-import thumb9 from '/assets/img/thumb/99.png';
+// import thumb9 from '/assets/img/thumb/99.png';
 import thumb8 from '/assets/img/thumb/88.png';
 // import thumb8 from '/assets/img/thumb/8.jpg';
 import thumb14 from '/assets/img/thumb/14.jpg';
 import { Link } from "react-router-dom";
-import CountUp from 'react-countup';
+// import CountUp from 'react-countup';
 import SplitText from "../animation/SplitText.jsx"
 
 const BannerV7 = () => {
